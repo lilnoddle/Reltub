@@ -9,4 +9,17 @@
 .title{
 	text-align:center;
 	font-family:verdana;
+	color:white;
+	padding:75px;
+	font-size:70px;
+}
+.img1{
+	height:200px;
+	width:200px;
+	position:relative;
+	left:550px;
+}
+.div1{
+
+	background-color:#151b26;
 }
