@@ -15,23 +15,28 @@
 	padding:75px;
 	font-size:70px;
 }
-.img1{
-	height:200px;
-	width:200px;
-	position:relative;
-	left:550px;
+.img-fluid {
+	width:20%;
+	height:20%;
+	float:right;
 }
 .div1{
-
 	background-color:#151b26;
 }
 .mission{
-	margin-left:200px;
-	margin-right:200px;
-	text-align:center;
-	background-color:#151b26;
-	color:white;
+	margin-left:50px;
+	margin-right:600px;
+	text-align:left;
+	color:black;
+	font-size:30px;
 }
 body{
-	background-color:white;
+	background-image:url("http://deskbg.com/i/c/1280x1024/wpp/12/12004/robotics-desktop-background.jpg");
 }
+.jumbotron-fluid{
+	color:white;
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-bottom:50px;
+}
+
