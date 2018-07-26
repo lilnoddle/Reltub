@@ -3,11 +3,7 @@
 	font-family:verdana;
 	font-size:15px;
 }
-.missionStatement{
-	float:center;
-	font-family:verdana;
-	font-size:15px;
-}
+
 .title{
 	text-align:center;
 	font-family:verdana;
@@ -28,7 +24,7 @@
 	margin-right:600px;
 	text-align:left;
 	color:black;
-	font-size:30px;
+	font-size:20px;
 }
 body{
 	background-image:url("http://deskbg.com/i/c/1280x1024/wpp/12/12004/robotics-desktop-background.jpg");
@@ -39,4 +35,12 @@ body{
 	padding-bottom:30px;
 	margin-bottom:50px;
 }
-
+.phrase{
+	margin-top:100px;
+	margin-left:40px;
+}
+.robot1{
+	margin-top:20px;
+	margin-left:40px;
+	border:1px solid black;
+}
