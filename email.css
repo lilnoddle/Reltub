@@ -1,12 +1,17 @@
 .title1{
 	text-align:center;
 	padding:20px;
-	background-image:url("https://thumbs.dreamstime.com/b/lincoln-penny-wallpaper-background-pennies-32802058.jpg");
+	background-image:url("https://thumbs.dreamstime.com/b/color-money-background-stationery-739106.jpg");
 	color:black;
 }
 .spreadsheet{
-	height:100%;
-	width:100%;
+	text-align:center;
+	height:75%;
+	width:75%;
+	position:relative;
+	bottom:0px;
+	margin-left:150px;
+	margin-top:75px;
 }
 body{
 	background-color:black;
